@@ -1,0 +1,22 @@
+{
+  "name": "jobportal",
+  "version": "1.0.0",
+  "description": "movie",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "main": "nodemon main.js"
+  },
+  "author": "swapna",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.4",
+    "nodemon": "^3.1.4",
+    "type": "^2.7.3"
+  }
+}
